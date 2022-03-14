@@ -1,0 +1,21 @@
+.box{
+    height: 300px;
+    background-color: black;
+    width: 20%;
+    float: left;
+}
+.box1{
+    background: rgb(150, 206, 19);
+}
+.box2{
+    background: red;
+}
+.box3{
+    background: rgb(8, 189, 53);
+}
+.box4{
+    background: rgb(26, 136, 68);
+}
+.box5{
+    background: rgb(32, 4, 83);
+}

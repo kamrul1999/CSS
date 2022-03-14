@@ -1,0 +1,19 @@
+.n{
+    width: 300px;
+    height: 200px;
+    top: 50px;
+    bottom: 0;
+    margin: auto;
+    overflow: scroll;
+    background: cadetblue;
+    border: 2px solid cornflowerblue
+    
+    
+
+}
+p{
+    color: rgb(89, 0, 255);
+    text-transform: capitalize;
+    text-shadow: 10px;
+    
+}

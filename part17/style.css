@@ -1,0 +1,18 @@
+table,td, th{
+    border: 1px solid rgb(38, 22, 182);
+    text-align: left;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+    padding: 15px ;
+}
+ .h1{
+        border: 1px solid rgb(38, 22, 182);
+       background-color: aqua;
+
+        width: 100%;
+        border-collapse: inherit;
+}

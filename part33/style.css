@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000;
+    padding:11px ;
+    font-size:30px ;
+    transform:translateX(200px)
+
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000;
+    padding:11px ;
+    font-size:30px ;
+    margin: 40px auto;
+    transform:rotate(-60deg)
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000;
+    padding:11px ;
+    font-size:30px ;
+    margin: 100px auto;
+    transform:scale(2)
+
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px solid #000;
+    padding: 15px 20px ;
+    font-size:30px ;
+    transform:translateY( )
+     
+}
+.box4{
+    transform: skewY(45deg);
+}

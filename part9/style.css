@@ -1,0 +1,37 @@
+.h2{
+    margin: 50px;
+    border: 1px solid green;
+    outline: medium solid red;
+    outline-style: solid;
+    outline-offset: 30px;
+}
+.h1{
+    margin: 50px ;
+    text-align: center;
+    margin-top: auto;
+    outline-width: 5px ;
+    border: 1px dotted green;
+    outline:  dotted red;
+    outline-style: dotted;
+    outline-offset: 30px;
+}
+.p1 {
+    margin: 43px;
+    text-align: center;
+    text-decoration: underline;
+    border: 9px double rgb(6, 173, 34);
+   
+    outline-style: double;
+    outline-width: 8px;
+    outline-offset: 11px;
+}
+.p2{
+    margin: 60px;
+    text-align: center;
+    border: 5px  solid crimson;
+    outline: medium navy;
+     outline-style:dotted ;
+     outline-width: 5px;
+     outline-offset: 30px ;
+     
+}

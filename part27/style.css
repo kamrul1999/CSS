@@ -1,0 +1,11 @@
+h2:first-child{
+    color: aqua;
+
+}
+h2:nth-child(3){
+    color: blueviolet;
+
+}
+h2:nth-child(5){
+    color: blue;
+}

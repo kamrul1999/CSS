@@ -1,0 +1,10 @@
+.m1{
+    border: 10px solid cornflowerblue;
+    width: 400px;
+    margin: auto;
+}
+.m2{
+    border: 10px solid chartreuse;
+     max-width: 400px;
+    margin: auto;
+}

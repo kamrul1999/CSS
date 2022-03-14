@@ -1,0 +1,45 @@
+ul{
+    margin: 0;
+    padding: 0;
+    background: #333;
+    overflow: hidden;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+
+ 
+}
+ul li a{
+color: blueviolet;
+text-decoration: none;
+padding: 60px 80px;
+display: inline-block;
+border-radius: 50%;
+
+min-width: 30%;
+
+}
+
+ul li a:hover{
+ background: rgb(223, 29, 103);   
+}
+.content{
+    background: rgb(194, 189, 207);
+    box-shadow: 0 10px 0 cornflowerblue;
+    display: none;
+    position: absolute;
+    border-radius: 20%;
+}
+.content a{
+    display: block;
+    color: brown;
+}
+.content a:hover{
+ background: chocolate;
+
+}
+.k1:hover .content{
+    display: block;
+}
+

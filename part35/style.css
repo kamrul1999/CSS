@@ -1,0 +1,56 @@
+.box1{
+    max-width: 300px;
+    height: 300px;
+    margin: auto;
+    top: 100px;
+   background: red; 
+   position: relative;
+   animation:kamran1 4s ease-in 1s 4 alternate backwards;  ;
+   border-radius: 50%;
+}
+ p ::first-letter{
+    font-size: 50px
+    
+}
+ h3 {
+    
+    margin: 0 -6px 0 ;
+    padding: 118px;
+    box-shadow: 20px 10px 8px 20px;
+    text-transform: capitalize;
+    text-decoration: underline  double;
+    color: blue;
+}
+  .box1 h3 ::first-letter {
+     font-size: 50px;
+     
+    
+}
+
+@keyframes kamran1{
+    0%{
+        background-color:orange;
+        left: 0;
+        top: 0;
+    }
+    25%{
+        background-color: blue;
+        left: 200px;
+        top: 0;
+    }
+    50%{
+        background-color: blueviolet;
+        left: 200px;
+        top: 200px;
+    }
+    80%{
+        background-color:lime;
+        left: 0;
+        top: 200px;
+    }
+    100%{
+        background-color: red;
+        left: 0;
+        top: 0;
+    }
+    

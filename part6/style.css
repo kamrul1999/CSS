@@ -1,0 +1,37 @@
+.kamran{
+    border-width: 5px;
+    border-style: solid;
+   
+    border-color: red;
+}
+.nahid{
+   border-width: 10px;
+   border-style: solid;
+   border-color: brown;
+   border-radius: 10px;
+}  
+.kamrul1{
+   
+    border-width: 10px;
+    border-style: dotted solid;
+    border-color: brown;
+    border-radius: 10px 15px 30px;
+}
+.h1{
+    border-width: 10px;
+   border-style:  double ;
+   border-color: brown;
+   border-radius: 15px;
+}
+.h2{
+    border-width: 10px;
+   border-style: dashed;
+   border-color: brown;
+   border-radius: 10px;
+}
+.h3{
+   
+    border-width: 5px  20px 30px;
+    border-style: solid;
+    border-color: red;
+}

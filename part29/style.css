@@ -1,0 +1,52 @@
+.h1{
+    overflow: hidden;
+}
+.h1 ul{
+    margin: 0;
+    padding: 0;
+}
+.h1 ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 10px;
+    
+}
+h1 ul li:last-child{
+    margin-right: 0;
+}
+.h1 ul li a{
+    background-image: url(./img/icons.png);
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    width: 105px;
+    height: 106px;
+    display: inline-block;
+    border-radius: 50%;
+
+
+}
+.h1 ul li:hover:nth-child(1) a{
+    background-position: 0 -104px;
+    
+}
+.h1 ul li:nth-child(2) a{
+    background-position: -102px 0;
+}
+.h1 ul li:hover:nth-child(2) a{
+    background-position: -102px -110px;
+}
+
+.h1 ul li:nth-child(3) a{
+    background-position: -207px 0;
+}
+.h1 ul li:hover:nth-child(3) a{
+    background-position: -207px -107px;
+}
+.h1 ul li:nth-child(4) a{
+background-position: -314px 0;
+}
+.h1 ul li:hover:nth-child(4) a{
+
+background-position: -314px -108px;
+}
+

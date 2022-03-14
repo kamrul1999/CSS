@@ -1,0 +1,28 @@
+.box{
+    width: 100px;
+    height: 100px;
+    
+    background: crimson;
+    transition: width 1s,height 1s, transform 1s ;
+   transition-timing-function: ease-in-out;
+}
+
+  h2 p::first-letter {
+font-size: 30px;
+color: aqua;
+}
+
+.box:hover{
+    width: 300px;
+    height: 300px;
+    transform:rotate(190deg)
+}
+.box h2{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(36, 206, 21);
+
+
+}
+
+    

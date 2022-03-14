@@ -1,0 +1,13 @@
+body{
+    background-size: 100% 1000px;
+    padding: 100px;
+    background-position: center;
+    background-image: url(./img/p1\ \(1\).jpg);
+    background-repeat: no-repeat;
+}
+h2{
+    color: aqua;
+    text-align: center;
+     text-decoration: underline;
+}
+    

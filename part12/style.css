@@ -1,0 +1,14 @@
+h2{
+    color: rgb(28, 168, 122);
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline dotted;
+}
+p{
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+.q1{
+    font-family: 'Anton', sans-serif;
+    font-variant: small-caps;
+    height: auto;
+}

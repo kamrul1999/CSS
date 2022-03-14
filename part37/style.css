@@ -1,0 +1,13 @@
+p::first-letter{
+    color: rgb(255, 0, 179);
+    font-size: 50px;
+}
+
+h2::before{
+    content: url(./img/star.jpg);
+}
+h2::after {
+    content: url(./img/star.jpg);
+
+
+

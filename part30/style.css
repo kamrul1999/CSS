@@ -1,0 +1,35 @@
+.box{
+    width: 300px;
+    height: 300px;
+    background: red;
+  
+}
+@media screen and (max-width:580px){
+
+.box{  
+
+ 
+     background: green;
+      }
+    
+    
+
+    
+}
+.box2{
+    width: 400px;
+    height: 350px;
+    background: green;
+}
+@media screen and (min-width:480px) {
+    .box2{
+        background: yellow;
+    }
+    
+}
+@media screen and (max-width:480px) {
+    h2{
+        font-size: 35px;
+    }
+    
+}
